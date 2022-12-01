@@ -14,6 +14,10 @@
     background-color:#9b59b6;
 }
 
+.bg-color-contact {
+    background-color: #fff;
+}
+
 .bg-color-personal-info {
     background-color: #f4f4f4;
 
@@ -335,3 +339,5 @@ footer {
 .history-items {
     margin-bottom: 30px;
 }
+
+/* ------------------------------Contact Form  */
